@@ -1,3 +1,6 @@
+<img width="1680" height="1050" alt="Screenshot 2026-05-10 at 12 17 52 PM" src="https://github.com/user-attachments/assets/a3db29a7-077c-4b0b-8e8c-0e61d16c3d6f" />
+<img width="1680" height="1050" alt="Screenshot 2026-05-10 at 12 17 45 PM" src="https://github.com/user-attachments/assets/b4633d4d-d3c9-48ab-b978-cd49e7dc07e1" />
+<img width="1680" height="1050" alt="Screenshot 2026-05-10 at 12 17 45 PM" src="https://github.com/user-attachments/assets/ade8748e-14f8-4e6f-981e-e7c3df3b48c7" />
 # 🤖 Multi-Agent Autonomous Research System
 
 > An end-to-end AI system where 5 specialized agents collaborate to autonomously research any topic — searching academic papers, verifying citations, and generating publication-ready technical reports.
